@@ -22,4 +22,14 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+TASK-0001 Delete Yandex and VK from authorization
+TASK-0002 Extract secure values to environment variables
+TASK-0003 Using H2 in tests instead of postgres 
+TASK-0004 Add tests for ProfileRestController
+TASK-0005 Implement addTag rest method
+TASK-0006 Implement subscribe to task
+TASK-0007 Implement takeMsInProgress and takeMsInTesting methods for task
+TASK-0008 Add ru/fr localization to index.html and mail templates
+
+TODO:
+fill environment variables for Docker
